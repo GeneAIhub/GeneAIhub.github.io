@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Shurun Wang"
+title                    : "TaoTeng Wang"
 description              : "Always and Forever"
 repository               : "Shurun-Wang/Shurun-Wang.github.io"
 google_scholar_stats_use_cdn : false
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Shurun Wang"
+  name             : "TaoTeng Wang"
   avatar           : "images/photo.png"
-  bio              : "University of Science and Technology of China"
-  location         : "Hefei, China"
+  bio              : "Universiti Malaya, Malaysia"
+  location         : "Kuala Lumpur, Malaysia"
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=bTr_fucAAAAJ"
-  email            : "srwang@ustc.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Shurun-Wang"
+  googlescholar    : "https://scholar.google.com/citations?user=teng wang"
+  email            : "wangteng1009@gmail.com"
+  researchgate     : "https://www.researchgate.net/profile/Wang-Teng-22/research"
   uri              : 
   bitbucket        :
   codepen          :
@@ -37,21 +37,21 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Shurun-Wang"
+  github           : "GeneAIhub"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "linkedin teng wang"# e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : 
+  orcid            : "https://orcid.org/0000-0001-6708-2125"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "https://x.com/steven_wan57645"
   vine             :
   weibo            :
   xing             :
