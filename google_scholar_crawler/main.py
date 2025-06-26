@@ -109,6 +109,7 @@ def main():
             json.dump(author_data, outfile, ensure_ascii=False, indent=4)
         print("\n已成功生成 results/gs_data.json")
 
+        print(f"(((((((((((((((((((((((((()))))))){author_data.get('citedby', 0)}")
         shieldio_data = {
             "schemaVersion": 1,
             "label": "citations",
