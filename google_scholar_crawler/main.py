@@ -113,7 +113,7 @@ def main():
         shieldio_data = {
             "schemaVersion": 1,
             "label": "citations",
-            "message": str(author_data.get('citedby', 0)),
+            "message": author_data.get('citedby', 0),
             "color": "brightgreen"
         }
         with open('results/gs_data_shieldsio.json', 'w', encoding='utf-8') as outfile:
