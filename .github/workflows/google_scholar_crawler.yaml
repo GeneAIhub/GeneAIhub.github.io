@@ -19,6 +19,10 @@ jobs:
   build-and-push-data:
     # 使用最新稳定版的Ubuntu系统
     runs-on: ubuntu-latest
+
+    permissions:
+      contents: write  # <<--- 核心修改：授予内容写入权限
+
     steps:
       # 第一步：检出你的代码仓库
       - name: Checkout Repository
