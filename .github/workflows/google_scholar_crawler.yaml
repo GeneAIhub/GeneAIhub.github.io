@@ -55,6 +55,8 @@ jobs:
 
     - name: Run
       run: |
+        echo "Listing files in google_scholar_crawler directory..."
+        ls -l ./google_scholar_crawler
         cd ./google_scholar_crawler
         python3 main.py || { echo "Error in main.py execution"; exit 1; }
 
