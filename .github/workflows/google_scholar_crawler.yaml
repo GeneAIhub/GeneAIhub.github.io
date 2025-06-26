@@ -1,30 +1,69 @@
+# 工作流名称
 name: Get Citation Data
 
-on: 
- page_build: 
- schedule:
-  - cron:  '0 0 * * *'
- workflow_dispatch:
+on:
+  # 1. 定时触发：每天UTC时间0点（北京/香港时间上午8点）
+  schedule:
+    - cron: '0 0 * * *'
+  # 2. 手动触发：可以在GitHub的Actions页面手动点击运行
+  workflow_dispatch:
+  # 3. 推送触发：当有代码推送到main分支时触发
+  push:
+    branches:
+      - main # 如果您的主分支是 master，请改为 master
+    paths:
+      # 只有当爬虫目录下的文件发生变化时才触发，避免不必要的运行
+      - 'google_scholar_crawler/**'
 
 jobs:
-  build:
+  build-and-push-data:
+    # 使用最新稳定版的Ubuntu系统
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
-    - name: Install Reqs
-      run: |
-        sudo apt-get install python3-setuptools
-    - name: Run
-      run: |
-        cd ./google_scholar_crawler
-        pip3 install -r requirements.txt
-        python3 main.py
-        cd ./results
-        git init
-        git config --local user.name "${GITHUB_ACTOR}"
-        export remote_repo="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
-        git add *.json
-        git commit -m "Updated Citation Data"
-        git push "${remote_repo}" HEAD:google-scholar-stats --force
-      env: 
-        GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
+      # 第一步：检出你的代码仓库
+      - name: Checkout Repository
+        uses: actions/checkout@v4 # 使用更新的v4版本
+
+      # 第二步：设置Python环境
+      # 这是标准做法，它会自动处理好Python版本和缓存
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10' # 您可以指定需要的Python版本
+          cache: 'pip' # 缓存pip的依赖包，下次运行会更快
+          cache-dependency-path: 'google_scholar_crawler/requirements.txt'
+
+      # 第三步：安装Python依赖包
+      - name: Install Dependencies
+        run: pip install -r requirements.txt
+        # 指定工作目录，这样就不用在每个命令前都加 cd 了
+        working-directory: ./google_scholar_crawler
+
+      # 第四步：运行Python脚本来获取数据
+      - name: Run Python Script
+        # 在这里，我们通过 env 块将两个必需的Secrets传递给脚本
+        env:
+          GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
+          SERPAPI_API_KEY: ${{ secrets.SERPAPI_API_KEY }} # 添加了新的API Key !!!
+        run: python main.py
+        working-directory: ./google_scholar_crawler
+
+      # 第五步：将生成的结果推送到google-scholar-stats分支
+      # 我们使用一个专门的Action来完成这个任务，取代了原来所有手写的git命令
+      - name: Push Results to stats branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          # GITHUB_TOKEN 是GitHub自动生成的，有权限推送到本仓库
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          # 要推送的分支名
+          publish_branch: google-scholar-stats
+          # 要推送的目录（包含生成的json文件的目录）
+          publish_dir: ./google_scholar_crawler/results
+          # 提交代码的用户名
+          user_name: 'github-actions[bot]'
+          # 提交代码的邮箱
+          user_email: 'github-actions[bot]@users.noreply.github.com'
+          # 提交信息
+          commit_message: "chore: Update citation data automatically"
+          # 强制推送，确保每次都用最新的数据覆盖整个分支
+          force_orphan: true

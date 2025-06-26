@@ -116,10 +116,10 @@ def main():
     # 从GitHub Secrets获取ID和API Key
     scholar_id = os.getenv('GOOGLE_SCHOLAR_ID')
     api_key = os.getenv('SERPAPI_API_KEY')
-
-    if not scholar_id or not api_key:
-        print("错误：请确保在GitHub Secrets中设置了 GOOGLE_SCHOLAR_ID 和 SERPAPI_API_KEY")
-        exit(1)
+    print(f"GOOGLE_SCHOLAR_ID {scholar_id}, SERPAPI_API_KEY {api_key}")
+    # if not scholar_id or not api_key:
+    #     print("错误：请确保在GitHub Secrets中设置了 GOOGLE_SCHOLAR_ID 和 SERPAPI_API_KEY")
+    #     exit(1)
 
     # 调用主函数获取数据
     author_data = fetch_all_scholar_data(scholar_id, api_key)
