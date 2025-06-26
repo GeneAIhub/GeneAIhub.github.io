@@ -1,8 +1,11 @@
+import os
+print("Running main.py")
+print("GOOGLE_SCHOLAR_ID =", os.getenv("GOOGLE_SCHOLAR_ID"))
 from scholarly import scholarly
 import jsonpickle
 import json
 from datetime import datetime
-import os
+
 
 
 print("Running main.py")
