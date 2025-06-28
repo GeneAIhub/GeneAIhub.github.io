@@ -62,7 +62,6 @@ author:
 # Reading Files
 include:
   - .htaccess
-  - _pages
   - files
 collections:
   pages:
