@@ -64,7 +64,6 @@ include:
   - .htaccess
   - _pages
   - files
-  -
 collections:
   pages:
     output: true
