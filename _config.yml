@@ -27,8 +27,9 @@ author:
   location         : "Kuala Lumpur, Malaysia"
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=UbqWo58AAAAJ&hl=en"
-
+  googlescholar:
+              - "https://scholar.google.com/citations?user=UbqWo58AAAAJ&hl=en"
+              - "https://scholar.google.com/citations?user=DmN2rEYAAAAJ"
   email            : "/contact.html"
   researchgate     : "https://www.researchgate.net/profile/Wang-Teng-22/research"
   uri              : 
