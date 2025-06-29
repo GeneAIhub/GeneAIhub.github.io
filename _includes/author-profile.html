@@ -109,13 +109,11 @@
       {% if author.vine %}
         <li><a href="https://vine.co/u/{{ author.vine }}"><i class="fab fa-fw fa-vine" aria-hidden="true"></i> Vine</a></li>
       {% endif %}
-<!--      {% if author.googlescholar %}-->
-<!--        <li><a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li>-->
-<!--      {% endif %}-->
-      {% if author.googlescholar %}
-        {% for item in author.googlescholar %}
-          <li><a href="{{ item.url }}"><i class="fas fa-fw fa-graduation-cap"></i> {{ item.title }}</a></li>
-        {% endfor %}
+      {% if author.googlescholar1 %}
+        <li><a href="{{ author.googlescholar1 }}"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li>
+      {% endif %}
+      {% if author.googlescholar2 %}
+        <li><a href="{{ author.googlescholar2 }}"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li>
       {% endif %}
 
 
