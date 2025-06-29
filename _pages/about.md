@@ -69,7 +69,7 @@ My research interest includes:
 </div>
 
 
-<h3 align="center">2024</h3>
+<h3 align="center">2025</h3>
 <div style="border-bottom: 1px solid #000; margin: 0px 0;"></div>
 
 <div class='paper-box'>
@@ -111,7 +111,8 @@ My research interest includes:
 - *2025.03*&ensp;Awarded Top 10% SCI Journal Publication Incentive, Faculty of Engineering
 - *2024.12*&ensp;Awarded Top 10% SCI Journal Publication Incentive, Faculty of Engineering
 - *2024.12*&ensp;Awarded Top 10% SCI Journal Publication Incentive, Faculty of Engineering
-- *2024.12*&ensp; 
+- *2020.12*&ensp;Third Prize, 21st Huawei Cup China Postgraduate Mathematical Contest in Modeling (CPMCM) — Wang Tao (Team Leader)
+
 
 # 💪🏸 Things I Enjoy
 - **Fitness**  
