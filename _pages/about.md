@@ -101,7 +101,7 @@ My research interest includes:
         <br>
         <strong>Teng Wang</strong>, Zhi Chao Ong, Shin Yee Khoo, Pei Yi Siow <strong>Tao Wang</strong>.
         <br>
-        <em> Measurement</em>, 2024 <a href="https://github.com/Shurun-Wang/GeneAIhub">[code]</a>
+        <em> Measurement</em>, 2024 <a href="https://github.com/GeneAIhub/GeneAIhub">[code]</a>
         <p></p>
         <p>We propose SeqInfo-SAWGAN-GP, a generative model conditioned on sequence information, to enhance the diversity of synthetic time-series data under varying operating conditions and address the scarcity of fault data.</p>
     </div>
@@ -127,7 +127,7 @@ My research interest includes:
 
 
 # 💬 News
-- *Now* &ensp;&ensp;&ensp;&ensp;![Visitors](https://api.visitorbadge.io/api/visitors?path=https://shurun-wang.github.io/&label=visitors&countColor=%232ccce4&style=plastic)
+- *Now* &ensp;&ensp;&ensp;&ensp;![Visitors](https://api.visitorbadge.io/api/visitors?path=https://GeneAIhub.github.io/&label=visitors&countColor=%232ccce4&style=plastic)
 
 
   
