@@ -51,19 +51,21 @@ My research interest includes:
 
 <div class='paper-box'>
     <div class='paper-box-image' style="text-align:center;">
-        <img src='images/apin2025.png' alt="sym" style="max-width:80%; height:auto; margin:auto; vertical-align:middle">
+        <img src='images/DSEN.png' alt="sym" style="max-width:80%; height:auto; margin:auto; vertical-align:middle">
     </div>
     <div class='paper-box-text'>
-        <a href="https://link.springer.com/article/10.1007/s10489-025-06415-3">
-            <papertitle> Improved data-driven model-free adaptive control method for an upper extremity power-assist exoskeleton </papertitle>
+        <a href="https://www.sciencedirect.com/science/article/pii/S0951832024007142">
+            <papertitle> Distance similarity entropy: A sensitive nonlinear feature extraction method for rolling bearing fault diagnosis </papertitle>
         </a>
         <br>
-        <strong>Shurun Wang</strong>, Hao Tang, Zhaowu Ping, et al.
+        <strong>Tao Wang</strong>, Shin Yee Khoo, Zhi Chao Ong, Pei Yi Siow, <strong>Teng Wang</strong>.
         <br>
-        <em>  Applied Intelligence</em>, 2025  <a href="https://github.com/Shurun-Wang/ISO-IMFAC">[code]</a>
+        <em>  Reliability Engineering & System Safety</em>, 2025  <a href="https://github.com/GeneAIhub/GeneAIhub">[code]</a>
         <p></p>
-        <p>We propose an IMFAC method, which requires only the I/O data of the system to achieve precise control of the exoskeleton. Meanwhile, an ISO algorithm is proposed to search for the optimal initial conditions of the IMFAC method.  </p>
-    </div>
+        <p>We propose an DSEN method, We propose an entropy-based method, DSEN, for bearing fault diagnosis. It captures subtle local variations through element-wise distance and Gaussian similarity,
+          and estimates similarity distributions to achieve accurate complexity measurement, thereby enhancing diagnostic accuracy and reliability.
+        </p>
+</div>
 </div>
 
 
@@ -72,137 +74,61 @@ My research interest includes:
 
 <div class='paper-box'>
     <div class='paper-box-image' style="text-align:center;">
-        <img src='images/bspc2024.png' alt="sym" style="max-width:80%; height:auto; margin:auto; vertical-align:middle">
+        <img src='images/EnSeqInfo.jpg' alt="sym" style="max-width:80%; height:auto; margin:auto; vertical-align:middle">
     </div>
     <div class='paper-box-text'>
-        <a href="https://www.sciencedirect.com/science/article/pii/S0169260724004127">
-            <papertitle> Optimizing graph neural network architectures for schizophrenia spectrum disorder prediction using evolutionary algorithms </papertitle>
+        <a href="https://www.sciencedirect.com/science/article/pii/S0952197625007602">
+            <papertitle> An enhanced generative adversarial network for longer vibration time data generation under variable operating conditions for imbalanced bearing fault diagnosis </papertitle>
         </a>
         <br>
-        <strong>Shurun Wang</strong>, Hao Tang, Ryutaro Himeno, et al.
+        <strong>Teng Wang</strong>, Zhi Chao Ong, Shin Yee Khoo, Pei Yi Siow, <strong>Tao Wang</strong>.
         <br>
-        <em> Computer Methods and Programs in Biomedicine</em>, 2024 (TOP) <a href="https://github.com/Shurun-Wang/EA-GNAS">[code]</a>
+        <em> Engineering Applications of Artificial Intelligence</em>, 2024 (TOP) <a href="https://github.com/GeneAIhub/GeneAIhub">[code]</a>
         <p></p>
-        <p>We propose a graph neural architecture search framework to build GNN model for disorder prediction. We use the GNNExplainer method to provide the explainability of the model, and the explainability results provide valuable insights for diagnosis and treatment.</p>
+        <p>We propose an enhanced generative adversarial network for generating longer vibration time data to improve imbalanced bearing fault diagnosis under variable operating conditions.</p>
     </div>
 </div>
 
 
 <div class='paper-box'>
     <div class='paper-box-image' style="text-align:center;">
-        <img src='images/aiim24.png' alt="sym" style="max-width:80%; height:auto; margin:auto; vertical-align:middle">
+        <img src='images/SeqInfo.jpg' alt="sym" style="max-width:80%; height:auto; margin:auto; vertical-align:middle">
     </div>
     <div class='paper-box-text'>
-        <a href="https://www.sciencedirect.com/science/article/abs/pii/S0933365724000198">
-            <papertitle> Integrated Block-Wise Neural Network with Auto-Learning Search Framework for Finger Gesture Recognition using sEMG Signals </papertitle>
+        <a href="https://www.sciencedirect.com/science/article/pii/S0263224124022292#f0005">
+            <papertitle> SeqInfo-SAWGAN-GP: Adaptive feature extraction from vibration time data under variable operating conditions for imbalanced bearing fault diagnosis </papertitle>
         </a>
         <br>
-        <strong>Shurun Wang</strong>, Hao Tang*, Feng Chen, et al.
+        <strong>Teng Wang</strong>, Zhi Chao Ong, Shin Yee Khoo, Pei Yi Siow <strong>Tao Wang</strong>.
         <br>
-        <em> Artificial Intelligence in Medicine</em>, 2024 <a href="https://github.com/Shurun-Wang/ALSF">[code]</a>
+        <em> Measurement</em>, 2024 <a href="https://github.com/Shurun-Wang/GeneAIhub">[code]</a>
         <p></p>
-        <p>We propose an innovative auto-learning search framework (ALSF) based on a weighted double Q-learning (WDQ-learning) algo-rithm. The development of this framework is tailored to opti-mize the construction of neural networks to achieve superior gesture recognition performance. </p>
+        <p>We propose SeqInfo-SAWGAN-GP, a generative model conditioned on sequence information, to enhance the diversity of synthetic time-series data under varying operating conditions and address the scarcity of fault data.</p>
     </div>
 </div>
-
-
-<h3 align="center">2023</h3>
-<div style="border-bottom: 1px solid #000; margin: 0px 0;"></div>
-
-<div class='paper-box'>
-    <div class='paper-box-image' style="text-align:center;">
-        <img src='images/tnnls23.png' alt="sym" style="max-width:80%; height:auto; margin:auto; vertical-align:middle">
-    </div>
-    <div class='paper-box-text'>
-        <a href="https://ieeexplore.ieee.org/document/9609089">
-            <papertitle> A Novel Approach to Detecting Muscle Fatigue Based on sEMG by Using Neural Architecture Search Framework </papertitle>
-        </a>
-        <br>
-        <strong>Shurun Wang</strong>, Hao Tang*, Bin Wang, et al.
-        <br>
-        <em> IEEE Transactions on Neural Networks ＆ Learning Systems</em>, 2023 (TOP) <a href="https://github.com/Shurun-Wang/NAS">[code]</a>
-        <p></p>
-        <p>We propose a hierarchical exploration mechanism based on reinforcement learning to automatically generate high-performance CNN models, which can be used in detecting the muscle fatigue.</p>
-    </div>
-</div>
-
-
-<h3 align="center">2022</h3>
-<div style="border-bottom: 1px solid #000; margin: 0px 0;"></div>
-
-<div class='paper-box'>
-    <div class='paper-box-image' style="text-align:center;">
-        <img src='images/jbhl22.png' alt="sym" style="max-width:80%; height:auto; margin:auto; vertical-align:middle">
-    </div>
-    <div class='paper-box-text'>
-        <a href="https://ieeexplore.ieee.org/document/9857571">
-            <papertitle> Continuous estimation of human joint angles from sEMG using a multi-feature temporal convolutional attention-based network </papertitle>
-        </a>
-        <br>
-        <strong>Shurun Wang</strong>, Hao Tang*, Lifu Gao, et al.
-        <br>
-        <em> IEEE Journal of Biomedical and Health Informatics</em>, 2022 (TOP) <a href="https://github.com/Shurun-Wang/MFTCAN-KNR">[code]</a>
-        <p></p>
-        <p> We propose a multi-feature temporal convolutional attention-based network (MFTCAN) to estimate the joint angles. <br>
-          We develop a joint training mechanism that integrates MFTCAN with traditional statistical algorithms such as KNR and SVR.
-</p>
-    </div>
-</div>
-
-<div class='paper-box'>
-    <div class='paper-box-image' style="text-align:center;">
-        <img src='images/tim22.png' alt="sym" 
-          style="max-width:80%; height:auto; margin:auto; vertical-align:middle">
-    </div>
-    <div class='paper-box-text'>
-        <a href="https://ieeexplore.ieee.org/document/9762275">
-            <papertitle> A Double Threshold Adaptive Method for Robust Detection of Muscle Activation Intervals from Surface Electromyographic Signals </papertitle>
-        </a>
-        <br>
-        Hao Tang*, <strong>Shurun Wang</strong>, Qi Tan, et al.
-        <br>
-        <em> IEEE Transactions on Instrumentation and Measurement</em>, 2022 (TOP) <a href="https://github.com/Shurun-Wang/sEMGDetection">[code]</a>
-        <p></p>
-        <p> We develop a robust SampEn-based algorithm to overcome the influence of the motion artifacts and irregular tonic spikes.  <br> We design a double threshold adaptive detection frame-work with interlocking structure to detect the onsets and offsets of muscle activation intervals.
-</p>
-    </div>
-</div>
-
-<h3 align="center">2021</h3>
-<div style="border-bottom: 1px solid #000; margin: 0px 0;"></div>
-
-<div class='paper-box'>
-    <div class='paper-box-image' style="text-align:center;">
-        <img src='images/bspc21.png' alt="sym" style="max-width:80%; height:auto; margin:auto; vertical-align:middle">
-    </div>
-    <div class='paper-box-text'>
-        <a href="https://www.sciencedirect.com/science/article/pii/S1746809421001075">
-            <papertitle> Analysis of Fatigue in the Biceps Brachii by Using Rapid Refined Composite Multiscale Sample Entropy </papertitle>
-        </a>
-        <br>
-        <strong>Shurun Wang</strong>, Hao Tang*, Bin Wang, et al.
-        <br>
-        <em> Biomedical Signal Processing and Control</em>, 2021 <a href="https://github.com/Shurun-Wang/R2CMSE">[code]</a>
-        <p></p>
-        <p> We propose the rapid refined composite multiscale sample entropy (R2CMSE) to extract sEMG signal features, and this algorithm can describe the change process of muscle fatigue. </p>
-    </div>
-</div>
-
-<h3 align="center">Patents</h3>
-<div style="border-bottom: 1px solid #000; margin: 0px 0;"></div>
-
-- Hao Tang, __Shurun Wang__, Bin Wang. A method for human motion intention recognition based on network architecture search. ZL202111251646.3 (Chinese）
 
 # 🏅 Honors and Awards
-- *2023.04*&ensp;Sponsored by the China Scholarship Council
-- *2022.10*&ensp;National scholarship for doctoral students
+- *2025.03*&ensp;Awarded Top 10% SCI Journal Publication Incentive, Faculty of Engineering
+- *2024.12*&ensp;Awarded Top 10% SCI Journal Publication Incentive, Faculty of Engineering
+- *2024.12*&ensp;Awarded Top 10% SCI Journal Publication Incentive, Faculty of Engineering
+- *2024.12*&ensp; 
+
+# 💪🏸 Things I Enjoy
+- **Fitness**  
+  Regular strength training and wellness activities.
+  
+- **Badminton**  
+  Passionate about competitive badminton. Honors include:  
+  - 🥇 Champion, Postgraduate Team Tournament, Northeast Petroleum University (2021)  
+  - 🥈 Runner-up, Team Tournament, Northeast Petroleum University (2022)  
+  - 🥈 Runner-up, CCB Malaysia 2nd Badminton Tournament (2024)  
+  - 🏆 Champion, Universiti Malaya International Students Men’s Doubles (2024)
 
 
 # 💬 News
 - *Now* &ensp;&ensp;&ensp;&ensp;![Visitors](https://api.visitorbadge.io/api/visitors?path=https://shurun-wang.github.io/&label=visitors&countColor=%232ccce4&style=plastic)
-- *2024.06*&ensp;Graduated with a Ph.D.
-- *2023.08*&ensp;Participate in the Brain/MINDS Data Portal Hackathon in RIKEN
-- *2022.09*&ensp;Qi Liu and I have entered into matrimony
+
+
   
 
 
