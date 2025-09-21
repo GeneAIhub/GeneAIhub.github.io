@@ -46,6 +46,30 @@ My research interest includes:
 
 
 # 📝 Publications 
+
+<h3 align="center">2025</h3>
+<div style="border-bottom: 1px solid #000; margin: 0px 0;"></div>
+
+<div class='paper-box'>
+    <div class='paper-box-image' style="text-align:center;">
+        <img src='images/MDSEN.png' alt="sym" style="max-width:80%; height:auto; margin:auto; vertical-align:middle">
+    </div>
+    <div class='paper-box-text'>
+        <a href="https://www.sciencedirect.com/science/article/pii/S0952197625023164">
+            <papertitle> Multi-scale distance similarity entropy: A novel complexity measurement for gearbox fault diagnosis </papertitle>
+        </a>
+        <br>
+        <strong>Tao Wang</strong>, Shin Yee Khoo, Zhi Chao Ong, Pei Yi Siow, <strong>Teng Wang</strong>.
+        <br>
+        <em>  Engineering Applications of Artificial Intelligence</em>, 2025  <a href="https://github.com/GeneAIhub/GeneAIhub">[code]</a>
+        <p></p>
+        <p>We propose a novel method called Multi-scale Distance Similarity Entropy (MDSE), 
+            which integrates distance similarity entropy with a multi-scale coarse-graining process to capture nonlinear variations in gearbox vibration signals while effectively suppressing noise. 
+            We validate its effectiveness on two gearbox datasets, where it achieves over 97% diagnostic accuracy and shows strong robustness and efficiency for real-time fault detection in complex industrial environments.
+        </p>
+</div>
+</div>
+
 <h3 align="center">2025</h3>
 <div style="border-bottom: 1px solid #000; margin: 0px 0;"></div>
 
@@ -62,7 +86,7 @@ My research interest includes:
         <br>
         <em>  Reliability Engineering & System Safety</em>, 2025  <a href="https://github.com/GeneAIhub/GeneAIhub">[code]</a>
         <p></p>
-        <p>We propose an DSEN method, We propose an entropy-based method, DSEN, for bearing fault diagnosis. It captures subtle local variations through element-wise distance and Gaussian similarity,
+        <p>We propose an entropy-based method, DSEN, for bearing fault diagnosis. It captures subtle local variations through element-wise distance and Gaussian similarity,
           and estimates similarity distributions to achieve accurate complexity measurement, thereby enhancing diagnostic accuracy and reliability.
         </p>
 </div>
