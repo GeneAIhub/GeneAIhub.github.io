@@ -61,7 +61,7 @@ My research interest includes:
         <br>
         <strong>Tao Wang</strong>, Shin Yee Khoo, Zhi Chao Ong, Pei Yi Siow, <strong>Teng Wang</strong>.
         <br>
-        <em>  Engineering Applications of Artificial Intelligence</em>, 2025  <a href="https://github.com/GeneAIhub/GeneAIhub">[code]</a>
+        <em>  Engineering Applications of Artificial Intelligence</em>, 2025 (TOP) <a href="https://github.com/GeneAIhub/GeneAIhub">[code]</a>
         <p></p>
         <p>We propose a novel method called Multi-scale Distance Similarity Entropy (MDSE), 
             which integrates distance similarity entropy with a multi-scale coarse-graining process to capture nonlinear variations in gearbox vibration signals while effectively suppressing noise. 
@@ -84,7 +84,7 @@ My research interest includes:
         <br>
         <strong>Tao Wang</strong>, Shin Yee Khoo, Zhi Chao Ong, Pei Yi Siow, <strong>Teng Wang</strong>.
         <br>
-        <em>  Reliability Engineering & System Safety</em>, 2025  <a href="https://github.com/GeneAIhub/GeneAIhub">[code]</a>
+        <em>  Reliability Engineering & System Safety</em>, 2025 (TOP) <a href="https://github.com/GeneAIhub/GeneAIhub">[code]</a>
         <p></p>
         <p>We propose an entropy-based method, DSEN, for bearing fault diagnosis. It captures subtle local variations through element-wise distance and Gaussian similarity,
           and estimates similarity distributions to achieve accurate complexity measurement, thereby enhancing diagnostic accuracy and reliability.
@@ -107,7 +107,7 @@ My research interest includes:
         <br>
         <strong>Teng Wang</strong>, Zhi Chao Ong, Shin Yee Khoo, Pei Yi Siow, <strong>Tao Wang</strong>.
         <br>
-        <em> Engineering Applications of Artificial Intelligence</em>, 2024 (TOP) <a href="https://github.com/GeneAIhub/GeneAIhub">[code]</a>
+        <em> Engineering Applications of Artificial Intelligence</em>, 2025 (TOP) <a href="https://github.com/GeneAIhub/GeneAIhub">[code]</a>
         <p></p>
         <p>We propose an enhanced generative adversarial network for generating longer vibration time data to improve imbalanced bearing fault diagnosis under variable operating conditions.</p>
     </div>
@@ -125,7 +125,7 @@ My research interest includes:
         <br>
         <strong>Teng Wang</strong>, Zhi Chao Ong, Shin Yee Khoo, Pei Yi Siow <strong>Tao Wang</strong>.
         <br>
-        <em> Measurement</em>, 2024 <a href="https://github.com/GeneAIhub/GeneAIhub">[code]</a>
+        <em> Measurement</em>, 2025 <a href="https://github.com/GeneAIhub/GeneAIhub">[code]</a>
         <p></p>
         <p>We propose SeqInfo-SAWGAN-GP, a generative model conditioned on sequence information, to enhance the diversity of synthetic time-series data under varying operating conditions and address the scarcity of fault data.</p>
     </div>
