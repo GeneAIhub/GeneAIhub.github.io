@@ -52,7 +52,7 @@ My research interest includes:
 
 <div class='paper-box'>
     <div class='paper-box-image' style="text-align:center;">
-        <img src='images/MDSEN.png' alt="sym" style="max-width:80%; height:auto; margin:auto; vertical-align:middle">
+        <img src='images/MDSEN.jpg' alt="sym" style="max-width:80%; height:auto; margin:auto; vertical-align:middle">
     </div>
     <div class='paper-box-text'>
         <a href="https://www.sciencedirect.com/science/article/pii/S0952197625023164">
@@ -61,7 +61,7 @@ My research interest includes:
         <br>
         <strong>Tao Wang</strong>, Shin Yee Khoo, Zhi Chao Ong, Pei Yi Siow, <strong>Teng Wang</strong>.
         <br>
-        <em>  Engineering Applications of Artificial Intelligence</em>, 2025 (TOP) <a href="https://github.com/GeneAIhub/GeneAIhub">[code]</a>
+        <em>  Engineering Applications of Artificial Intelligence</em>, 2025 (TOP) <a href="https://github.com/lattetaotao/Multi-scale-distance-similarity-entropy">[code]</a>
         <p></p>
         <p>We propose a novel method called Multi-scale Distance Similarity Entropy (MDSE), 
             which integrates distance similarity entropy with a multi-scale coarse-graining process to capture nonlinear variations in gearbox vibration signals while effectively suppressing noise. 
