@@ -47,7 +47,7 @@ My research interest includes:
 
 # 📝 Publications 
 
-<h3 align="center">2025</h3>
+<h3 align="center">The publications for Tao Wang</h3>
 <div style="border-bottom: 1px solid #000; margin: 0px 0;"></div>
 
 <div class='paper-box'>
@@ -70,8 +70,6 @@ My research interest includes:
 </div>
 </div>
 
-<h3 align="center">2025</h3>
-<div style="border-bottom: 1px solid #000; margin: 0px 0;"></div>
 
 <div class='paper-box'>
     <div class='paper-box-image' style="text-align:center;">
@@ -93,7 +91,7 @@ My research interest includes:
 </div>
 
 
-<h3 align="center">2025</h3>
+<h3 align="center">The publications for Teng Wang</h3>
 <div style="border-bottom: 1px solid #000; margin: 0px 0;"></div>
 
 <div class='paper-box'>
@@ -132,10 +130,12 @@ My research interest includes:
 </div>
 
 # 🏅 Honors and Awards
-- *2025.03*&ensp;Awarded Top 10% SCI Journal Publication Incentive, Faculty of Engineering
-- *2024.12*&ensp;Awarded Top 10% SCI Journal Publication Incentive, Faculty of Engineering
-- *2024.12*&ensp;Awarded Top 10% SCI Journal Publication Incentive, Faculty of Engineering
-- *2020.12*&ensp;Third Prize, 21st Huawei Cup China Postgraduate Mathematical Contest in Modeling (CPMCM) — Wang Tao (Team Leader)
+- *2025.10*&ensp;Awarded Top 10% SCI Journal Publication Incentive, Faculty of Engineering — Tao
+- *2025.03*&ensp;Awarded Top 10% SCI Journal Publication Incentive, Faculty of Engineering — Teng
+- *2024.12*&ensp;Awarded Top 10% SCI Journal Publication Incentive, Faculty of Engineering — Teng
+- *2024.12*&ensp;Awarded Top 10% SCI Journal Publication Incentive, Faculty of Engineering — Tao
+- *2025.06 – 2026.02*&ensp; Graduate Research Assistantship (GRA), Universiti Malaya — Project: Advanced Vibration Assessment and Diagnosis Using Entropy Features and Machine Learning Techniques — Tao
+- *2020.12*&ensp;Third Prize, 21st Huawei Cup China Postgraduate Mathematical Contest in Modeling (CPMCM) — Tao (Team Leader)
 
 
 # 💪🏸 Things I Enjoy
