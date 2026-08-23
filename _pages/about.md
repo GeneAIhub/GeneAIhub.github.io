@@ -52,6 +52,26 @@ My research interest includes:
 
 <div class='paper-box'>
     <div class='paper-box-image' style="text-align:center;">
+        <img src='images/DHMDSEn.jpg' alt="sym" style="max-width:80%; height:auto; margin:auto; vertical-align:middle">
+    </div>
+    <div class='paper-box-text'>
+        <a href="https://www.sciencedirect.com/science/article/pii/S0888327026010137">
+            <papertitle> Dual-hierarchical multi-scale distance similarity entropy as a novel nonlinear measure for wind turbine gearbox intelligent fault diagnosis </papertitle>
+        </a>
+        <br>
+        <strong>Tao Wang</strong>, Shin Yee Khoo, Zhi Chao Ong, Pei Yi Siow, <strong>Teng Wang</strong>.
+        <br>
+        <em> Mechanical Systems and Signal Processing</em>, 2026
+        <p></p>
+        <p>We propose dual-hierarchical multi-scale distance similarity entropy (DHMDSEn), 
+            which combines complementary phase-shifted hierarchical decompositions with multi-scale distance similarity entropy to improve information utilization and robustly characterize vibration signal complexity.
+            Experiments on laboratory wind turbine gearbox and real industrial datasets demonstrate mean diagnostic accuracies of 91.22% and 99.98%, respectively, outperforming existing hierarchical entropy-based methods.
+        </p>
+</div>
+</div>
+
+<div class='paper-box'>
+    <div class='paper-box-image' style="text-align:center;">
         <img src='images/MDSEN.jpg' alt="sym" style="max-width:80%; height:auto; margin:auto; vertical-align:middle">
     </div>
     <div class='paper-box-text'>
