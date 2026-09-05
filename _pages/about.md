@@ -17,19 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-[//]: # (I am **Teng Wang**, a Ph.D. graduate in Mechanical Engineering from Universiti Malaya. My work includes 5+ publications, as shown on my)
-
-[//]: # (<a href='https://scholar.google.com/citations?user=DmN2rEYAAAAJ'>)
-
-[//]: # (<img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FGeneAIhub%2FGeneAIhub.github.io%2Fgoogle-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">)
-
-[//]: # (</a> profile. My doctoral research was supervised by <highlight><a href="https://umexpert.um.edu.my/alexongzc" target="_blank">Professor Ong Zhi Chao</a></highlight>, <highlight><a href="https://umexpert.um.edu.my/khooshinyee" target="_blank">Dr. Khoo Shin Yee</a></highlight>, and <highlight><a href="https://umexpert.um.edu.my/siowpeiyi" target="_blank">Dr. Siow Pei Yi</a></highlight>. I am a member of the <highlight><a href="https://umengshm.com/asvr/" target="_blank">Advanced Shock and Vibration Research &#40;ASVR&#41; Group</a></highlight>, based in the <a href="https://engine.um.edu.my/department-of-mechanical-engineering" target="_blank">Department of Mechanical Engineering, Faculty of Engineering, Universiti Malaya</a>.)
-
-I am **Teng Wang**, and I received my Ph.D. in Mechanical Engineering from **Universiti Malaya**. My research focuses on mechanical condition monitoring, intelligent fault diagnosis, deep learning for time-series analysis, and generative modelling. I have published more than five research papers, with my publication and citation records available on
-<a href="https://scholar.google.com/citations?user=DmN2rEYAAAAJ" target="_blank">
+I am **Teng Wang**, and I received my Ph.D. in Mechanical Engineering from **Universiti Malaya**.
+My research focuses on mechanical condition monitoring, intelligent fault diagnosis, deep learning for time-series analysis, and generative modelling. I have published more than five research papers, with my publication and citation records available on
+<a href='https://scholar.google.com/citations?user=DmN2rEYAAAAJ'>
 <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FGeneAIhub%2FGeneAIhub.github.io%2Fgoogle-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
-</a>. My doctoral research was conducted under the supervision of <highlight><a href="https://umexpert.um.edu.my/alexongzc" target="_blank">Professor Ong Zhi Chao</a></highlight>, <highlight><a href="https://umexpert.um.edu.my/khooshinyee" target="_blank">Dr. Khoo Shin Yee</a></highlight>, and <highlight><a href="https://umexpert.um.edu.my/siowpeiyi" target="_blank">Dr. Siow Pei Yi</a></highlight>. I am also a member of the <highlight><a href="https://umengshm.com/asvr/" target="_blank">Advanced Shock and Vibration Research (ASVR) Group</a></highlight> within the <a href="https://engine.um.edu.my/department-of-mechanical-engineering" target="_blank">Department of Mechanical Engineering, Faculty of Engineering, Universiti Malaya</a>.
-
+</a> profile. My doctoral research was supervised by <highlight><a href="https://umexpert.um.edu.my/alexongzc" target="_blank">Professor Ong Zhi Chao</a></highlight>, <highlight>
+<a href="https://umexpert.um.edu.my/khooshinyee" target="_blank">Dr. Khoo Shin Yee</a></highlight>, and <highlight><a href="https://umexpert.um.edu.my/siowpeiyi" 
+target="_blank">Dr. Siow Pei Yi</a></highlight>. I am a member of the <highlight><a href="https://umengshm.com/asvr/" target="_blank">Advanced Shock and Vibration 
+Research (ASVR) Group</a></highlight>, based in the <a href="https://engine.um.edu.my/department-of-mechanical-engineering" target="_blank">Department of Mechanical Engineering, Faculty of Engineering, 
+Universiti Malaya</a>.
 
 My research interests include:
 - Generative models for data augmentation
