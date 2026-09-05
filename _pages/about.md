@@ -36,8 +36,8 @@ My research interests include:
 
 
 # 🎓 Educations 
-- 
-- *2019.09 - 2022.06*&ensp;M.Sc. in School of Mechanical Science and Engineering of Northeast Petroleum university, Daqing, China. <a href="https://jxkxygcxy.nepu.edu.cn/"><img class="svg" src="/images/NEPU.png" width="16pt"></a> 
+- *2023.03 - May 2026*&ensp;Ph.D. in Mechanical Engineering at Universiti Malaya, Kuala Lumpur, Malaysia. <a href="https://engine.um.edu.my/about-mechanical-engineering"><img class="svg" src="/images/UM.png" width="16pt"></a>
+- *2019.09 - 2022.06*&ensp;M.Sc. in School of Mechanical Science and Engineering of Northeast Petroleum University, Daqing, China. <a href="https://jxkxygcxy.nepu.edu.cn/"><img class="svg" src="/images/NEPU.png" width="16pt"></a>
 
 [//]: # (- *2012.09 - 2016.06*&ensp;B.Sc. in School of Electrical Engineering and Automation, Hefei University of Technology, Hefei, China. <a href="https://en.hfut.edu.cn/"><img class="svg" src="/images/hfut.png" width="16pt"></a> )
 
