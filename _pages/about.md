@@ -17,20 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-
-
-We are PhD student in Mechanical Engineering at Universiti Malaya and publish 5+ papers with 
+I am **Teng Wang**, a Ph.D. graduate in Mechanical Engineering from Universiti Malaya. My work includes 5+ publications, as shown on my
 <a href='https://scholar.google.com/citations?user=DmN2rEYAAAAJ'>
 <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FGeneAIhub%2FGeneAIhub.github.io%2Fgoogle-scholar-stats%2Fgs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
-</a>, under supervision of <highlight> <a href="https://umexpert.um.edu.my/alexongzc" target="_blank">Deputy Dean, Associate Professor Ong Zhi Chao</a></highlight>,<highlight> <a href="https://umexpert.um.edu.my/khooshinyee" target="_blank">Dr. Khoo Shin Yee</a></highlight>, and <highlight> <a href="https://umexpert.um.edu.my/siowpeiyi" target="_blank">Dr. Siow Pei Yi</a></highlight>.
-We are member of the <highlight> <a href="https://umengshm.com/asvr/" target="_blank">Advanced Shock and Vibration Research (ASVR) Group</a></highlight>, based in the <a href="https://engine.um.edu.my/department-of-mechanical-engineering" target="_blank">Department of Mechanical Engineering, Faculty of Engineering, Universiti Malaya</a>. 
+</a> profile. My doctoral research was supervised by <highlight><a href="https://umexpert.um.edu.my/alexongzc" target="_blank">Professor Ong Zhi Chao</a></highlight>, <highlight><a href="https://umexpert.um.edu.my/khooshinyee" target="_blank">Dr. Khoo Shin Yee</a></highlight>, and <highlight><a href="https://umexpert.um.edu.my/siowpeiyi" target="_blank">Dr. Siow Pei Yi</a></highlight>. I am a member of the <highlight><a href="https://umengshm.com/asvr/" target="_blank">Advanced Shock and Vibration Research (ASVR) Group</a></highlight>, based in the <a href="https://engine.um.edu.my/department-of-mechanical-engineering" target="_blank">Department of Mechanical Engineering, Faculty of Engineering, Universiti Malaya</a>.
 
-My research interest includes: 
-- Nonlinear time series analysis
-- Entropy feature extraction
-- Generative model for data augmentation
-- Data imbalance, data scarcity, lack of labeled samples
+My research interests include:
+- Generative models for data augmentation
+- Learning from imbalanced, scarce, and weakly labeled data
 - Few-shot learning
+- Nonlinear time-series analysis
+- Entropy-based feature extraction
 
 
 [//]: # (# 💻 Work Experiences)
@@ -39,7 +36,7 @@ My research interest includes:
 
 
 # 🎓 Educations 
-- *2023.03 - Expected 2026*&ensp;Ph.D. in Mechanical Engineering at Universiti Malaya, Kuala Lumpur, Malaysia. <a href="https://engine.um.edu.my/about-mechanical-engineering"><img class="svg" src="/images/UM.png" width="16pt"></a> 
+- 
 - *2019.09 - 2022.06*&ensp;M.Sc. in School of Mechanical Science and Engineering of Northeast Petroleum university, Daqing, China. <a href="https://jxkxygcxy.nepu.edu.cn/"><img class="svg" src="/images/NEPU.png" width="16pt"></a> 
 
 [//]: # (- *2012.09 - 2016.06*&ensp;B.Sc. in School of Electrical Engineering and Automation, Hefei University of Technology, Hefei, China. <a href="https://en.hfut.edu.cn/"><img class="svg" src="/images/hfut.png" width="16pt"></a> )
@@ -91,26 +88,6 @@ My research interest includes:
 </div>
 
 
-<div class='paper-box'>
-    <div class='paper-box-image' style="text-align:center;">
-        <img src='images/DSEN.png' alt="sym" style="max-width:80%; height:auto; margin:auto; vertical-align:middle">
-    </div>
-    <div class='paper-box-text'>
-        <a href="https://www.sciencedirect.com/science/article/pii/S0951832024007142">
-            <papertitle> Distance similarity entropy: A sensitive nonlinear feature extraction method for rolling bearing fault diagnosis </papertitle>
-        </a>
-        <br>
-        <strong>Tao Wang</strong>, Shin Yee Khoo, Zhi Chao Ong, Pei Yi Siow, <strong>Teng Wang</strong>.
-        <br>
-        <em>  Reliability Engineering & System Safety</em>, 2025 (TOP) <a href="https://github.com/GeneAIhub/GeneAIhub">[code]</a>
-        <p></p>
-        <p>We propose an entropy-based method, DSEN, for bearing fault diagnosis. It captures subtle local variations through element-wise distance and Gaussian similarity,
-          and estimates similarity distributions to achieve accurate complexity measurement, thereby enhancing diagnostic accuracy and reliability.
-        </p>
-</div>
-</div>
-
-
 [//]: # (<h3 align="center">The publications for Tao & Teng Wang</h3>)
 [//]: # (<div style="border-bottom: 1px solid #000; margin: 0px 0;"></div>)
 
@@ -149,13 +126,30 @@ My research interest includes:
     </div>
 </div>
 
+
+
+<div class='paper-box'>
+    <div class='paper-box-image' style="text-align:center;">
+        <img src='images/DSEN.png' alt="sym" style="max-width:80%; height:auto; margin:auto; vertical-align:middle">
+    </div>
+    <div class='paper-box-text'>
+        <a href="https://www.sciencedirect.com/science/article/pii/S0951832024007142">
+            <papertitle> Distance similarity entropy: A sensitive nonlinear feature extraction method for rolling bearing fault diagnosis </papertitle>
+        </a>
+        <br>
+        <strong>Tao Wang</strong>, Shin Yee Khoo, Zhi Chao Ong, Pei Yi Siow, <strong>Teng Wang</strong>.
+        <br>
+        <em>  Reliability Engineering & System Safety</em>, 2025 (TOP) <a href="https://github.com/GeneAIhub/GeneAIhub">[code]</a>
+        <p></p>
+        <p>We propose an entropy-based method, DSEN, for bearing fault diagnosis. It captures subtle local variations through element-wise distance and Gaussian similarity,
+          and estimates similarity distributions to achieve accurate complexity measurement, thereby enhancing diagnostic accuracy and reliability.
+        </p>
+</div>
+</div>
+
 # 🏅 Honors and Awards
-- *2025.10*&ensp;Awarded Top 10% SCI Journal Publication Incentive, Faculty of Engineering — Tao
-- *2025.03*&ensp;Awarded Top 10% SCI Journal Publication Incentive, Faculty of Engineering — Teng
-- *2024.12*&ensp;Awarded Top 10% SCI Journal Publication Incentive, Faculty of Engineering — Teng
-- *2024.12*&ensp;Awarded Top 10% SCI Journal Publication Incentive, Faculty of Engineering — Tao
-- *2025.06 – 2026.02*&ensp; Graduate Research Assistantship (GRA), Universiti Malaya — Project: Advanced Vibration Assessment and Diagnosis Using Entropy Features and Machine Learning Techniques — Tao
-- *2020.12*&ensp;Third Prize, 21st Huawei Cup China Postgraduate Mathematical Contest in Modeling (CPMCM) — Tao (Team Leader)
+- *2025.03*&ensp;Awarded Top 10% SCI Journal Publication Incentive, Faculty of Engineering
+- *2024.12*&ensp;Awarded Top 10% SCI Journal Publication Incentive, Faculty of Engineering
 
 
 # 💪🏸 Things I Enjoy
