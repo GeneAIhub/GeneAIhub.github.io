@@ -1,0 +1,146 @@
+{
+    "name": "teng wang",
+    "affiliation": "Universiti Malaya",
+    "interests": [
+        "data augmentation",
+        "fault diagnosis"
+    ],
+    "scholar_id": "DmN2rEYAAAAJ",
+    "citedby": 109,
+    "hindex": 5,
+    "i10index": 4,
+    "publications": {
+        "DmN2rEYAAAAJ:d1gkVwhDpl0C": {
+            "title": "Distance similarity entropy: A sensitive nonlinear feature extraction method for rolling bearing fault diagnosis",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DmN2rEYAAAAJ&citation_for_view=DmN2rEYAAAAJ:d1gkVwhDpl0C",
+            "citation_id": "DmN2rEYAAAAJ:d1gkVwhDpl0C",
+            "authors": "T Wang, SY Khoo, ZC Ong, PY Siow, T Wang",
+            "publication": "Reliability Engineering & System Safety 255, 110643, 2025",
+            "cited_by": {
+                "value": 33,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13022161852705555911",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13022161852705555911&engine=google_scholar&hl=en",
+                "cites_id": "13022161852705555911"
+            },
+            "year": "2025"
+        },
+        "DmN2rEYAAAAJ:qjMakFHDy7sC": {
+            "title": "An enhanced generative adversarial network for longer vibration time data generation under variable operating conditions for imbalanced bearing fault diagnosis",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DmN2rEYAAAAJ&citation_for_view=DmN2rEYAAAAJ:qjMakFHDy7sC",
+            "citation_id": "DmN2rEYAAAAJ:qjMakFHDy7sC",
+            "authors": "T Wang, ZC Ong, SY Khoo, PY Siow, J Zhang, T Wang",
+            "publication": "Engineering Applications of Artificial Intelligence 151, 110760, 2025",
+            "cited_by": {
+                "value": 23,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17482682384553217098",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17482682384553217098&engine=google_scholar&hl=en",
+                "cites_id": "17482682384553217098"
+            },
+            "year": "2025"
+        },
+        "DmN2rEYAAAAJ:UeHWp8X0CEIC": {
+            "title": "An improved MSCNN and GRU model for rolling bearing fault diagnosis",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DmN2rEYAAAAJ&citation_for_view=DmN2rEYAAAAJ:UeHWp8X0CEIC",
+            "citation_id": "DmN2rEYAAAAJ:UeHWp8X0CEIC",
+            "authors": "T Wang, Y Tang, T Wang, N Lei",
+            "publication": "Strojniški vestnik-Journal of Mechanical Engineering 69 (5-6), 261-274, 2023",
+            "cited_by": {
+                "value": 20,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9532534341683749187",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9532534341683749187&engine=google_scholar&hl=en",
+                "cites_id": "9532534341683749187"
+            },
+            "year": "2023"
+        },
+        "DmN2rEYAAAAJ:9yKSN-GCB0IC": {
+            "title": "SeqInfo-SAWGAN-GP: Adaptive feature extraction from vibration time data under variable operating conditions for imbalanced bearing fault diagnosis",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DmN2rEYAAAAJ&citation_for_view=DmN2rEYAAAAJ:9yKSN-GCB0IC",
+            "citation_id": "DmN2rEYAAAAJ:9yKSN-GCB0IC",
+            "authors": "T Wang, ZC Ong, SY Khoo, PY Siow, J Zhang, T Wang",
+            "publication": "Measurement 243, 116344, 2025",
+            "cited_by": {
+                "value": 19,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9932750150052690309",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9932750150052690309&engine=google_scholar&hl=en",
+                "cites_id": "9932750150052690309"
+            },
+            "year": "2025"
+        },
+        "DmN2rEYAAAAJ:Tyk-4Ss8FVUC": {
+            "title": "Multi-scale distance similarity entropy: a novel complexity measurement for gearbox fault diagnosis",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DmN2rEYAAAAJ&citation_for_view=DmN2rEYAAAAJ:Tyk-4Ss8FVUC",
+            "citation_id": "DmN2rEYAAAAJ:Tyk-4Ss8FVUC",
+            "authors": "T Wang, SY Khoo, ZC Ong, PY Siow, T Wang",
+            "publication": "Engineering Applications of Artificial Intelligence 161, 112308, 2025",
+            "cited_by": {
+                "value": 8,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17003620649291643012",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17003620649291643012&engine=google_scholar&hl=en",
+                "cites_id": "17003620649291643012"
+            },
+            "year": "2025"
+        },
+        "DmN2rEYAAAAJ:IjCSPb-OGe4C": {
+            "title": "Research on fault diagnosis of rolling bearing based on SEMSCNN and GRU model",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DmN2rEYAAAAJ&citation_for_view=DmN2rEYAAAAJ:IjCSPb-OGe4C",
+            "citation_id": "DmN2rEYAAAAJ:IjCSPb-OGe4C",
+            "authors": "T Youfu, W Teng, W Tao, L Na",
+            "publication": "Journal of Physics: Conference Series 2184 (1), 012054, 2022",
+            "cited_by": {
+                "value": 5,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8030246486007052551",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8030246486007052551&engine=google_scholar&hl=en",
+                "cites_id": "8030246486007052551"
+            },
+            "year": "2022"
+        },
+        "DmN2rEYAAAAJ:Y0pCki6q_DkC": {
+            "title": "Hierarchical Distance Similarity Entropy: A Novel Nonlinear Feature Extraction Method for Motor Fault Diagnosis",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DmN2rEYAAAAJ&citation_for_view=DmN2rEYAAAAJ:Y0pCki6q_DkC",
+            "citation_id": "DmN2rEYAAAAJ:Y0pCki6q_DkC",
+            "authors": "T Wang, SY Khoo, ZC Ong, PY Siow, T Wang",
+            "publication": "2025 Global Reliability and Prognostics and Health Management Conference …, 2025",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14167877845797913056",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14167877845797913056&engine=google_scholar&hl=en",
+                "cites_id": "14167877845797913056"
+            },
+            "year": "2025"
+        },
+        "DmN2rEYAAAAJ:eQOLeE2rZwMC": {
+            "title": "Dual-hierarchical multi-scale distance similarity entropy as a novel nonlinear measure for wind turbine gearbox intelligent fault diagnosis",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DmN2rEYAAAAJ&citation_for_view=DmN2rEYAAAAJ:eQOLeE2rZwMC",
+            "citation_id": "DmN2rEYAAAAJ:eQOLeE2rZwMC",
+            "authors": "T Wang, SY Khoo, ZC Ong, PY Siow, T Wang",
+            "publication": "Mechanical Systems and Signal Processing 259, 114856, 2026",
+            "cited_by": {
+                "value": null
+            },
+            "year": "2026"
+        },
+        "DmN2rEYAAAAJ:WF5omc3nYNoC": {
+            "title": "A symmetric three-layer manifold cold plate enabling multi-surface cooling: design and multi-objective optimization",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DmN2rEYAAAAJ&citation_for_view=DmN2rEYAAAAJ:WF5omc3nYNoC",
+            "citation_id": "DmN2rEYAAAAJ:WF5omc3nYNoC",
+            "authors": "H Zhang, J Du, T Wang, NSS Singh, A Smerat, WF Mbasso, B Wu, ...",
+            "publication": "Applied Thermal Engineering, 131327, 2026",
+            "cited_by": {
+                "value": null
+            },
+            "year": "2026"
+        },
+        "DmN2rEYAAAAJ:W7OEmFMy1HYC": {
+            "title": "An Enhanced Generative Adversarial Network for Condition-Controllable Fault Signal Synthesis and Imbalanced Bearing Fault Diagnosis",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DmN2rEYAAAAJ&citation_for_view=DmN2rEYAAAAJ:W7OEmFMy1HYC",
+            "citation_id": "DmN2rEYAAAAJ:W7OEmFMy1HYC",
+            "authors": "T Wang, ZC Ong, SY Khoo, PY Siow, T Wang",
+            "publication": "2025 Global Reliability and Prognostics and Health Management Conference …, 2025",
+            "cited_by": {
+                "value": null
+            },
+            "year": "2025"
+        }
+    },
+    "updated": "2026-09-05 02:30:39.350314"
+}
