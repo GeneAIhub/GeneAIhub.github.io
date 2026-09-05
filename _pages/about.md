@@ -47,46 +47,6 @@ My research interests include:
 <h3 align="center">The publications for Tao & Teng Wang</h3>
 <div style="border-bottom: 1px solid #000; margin: 0px 0;"></div>
 
-<div class='paper-box'>
-    <div class='paper-box-image' style="text-align:center;">
-        <img src='images/DHMDSEn.jpg' alt="sym" style="max-width:80%; height:auto; margin:auto; vertical-align:middle">
-    </div>
-    <div class='paper-box-text'>
-        <a href="https://www.sciencedirect.com/science/article/pii/S0888327026010137">
-            <papertitle> Dual-hierarchical multi-scale distance similarity entropy as a novel nonlinear measure for wind turbine gearbox intelligent fault diagnosis </papertitle>
-        </a>
-        <br>
-        <strong>Tao Wang</strong>, Shin Yee Khoo, Zhi Chao Ong, Pei Yi Siow, <strong>Teng Wang</strong>.
-        <br>
-        <em> Mechanical Systems and Signal Processing</em>, 2026
-        <p></p>
-        <p>We propose dual-hierarchical multi-scale distance similarity entropy (DHMDSEn), 
-            which combines complementary phase-shifted hierarchical decompositions with multi-scale distance similarity entropy to improve information utilization and robustly characterize vibration signal complexity.
-            Experiments on laboratory wind turbine gearbox and real industrial datasets demonstrate mean diagnostic accuracies of 91.22% and 99.98%, respectively, outperforming existing hierarchical entropy-based methods.
-        </p>
-</div>
-</div>
-
-<div class='paper-box'>
-    <div class='paper-box-image' style="text-align:center;">
-        <img src='images/MDSEN.jpg' alt="sym" style="max-width:80%; height:auto; margin:auto; vertical-align:middle">
-    </div>
-    <div class='paper-box-text'>
-        <a href="https://www.sciencedirect.com/science/article/pii/S0952197625023164">
-            <papertitle> Multi-scale distance similarity entropy: A novel complexity measurement for gearbox fault diagnosis </papertitle>
-        </a>
-        <br>
-        <strong>Tao Wang</strong>, Shin Yee Khoo, Zhi Chao Ong, Pei Yi Siow, <strong>Teng Wang</strong>.
-        <br>
-        <em>  Engineering Applications of Artificial Intelligence</em>, 2025 (TOP) <a href="https://github.com/lattetaotao/Multi-scale-distance-similarity-entropy">[code]</a>
-        <p></p>
-        <p>We propose a novel method called Multi-scale Distance Similarity Entropy (MDSE), 
-            which integrates distance similarity entropy with a multi-scale coarse-graining process to capture nonlinear variations in gearbox vibration signals while effectively suppressing noise. 
-            We validate its effectiveness on two gearbox datasets, where it achieves over 97% diagnostic accuracy and shows strong robustness and efficiency for real-time fault detection in complex industrial environments.
-        </p>
-</div>
-</div>
-
 
 [//]: # (<h3 align="center">The publications for Tao & Teng Wang</h3>)
 [//]: # (<div style="border-bottom: 1px solid #000; margin: 0px 0;"></div>)
@@ -126,6 +86,45 @@ My research interests include:
     </div>
 </div>
 
+<div class='paper-box'>
+    <div class='paper-box-image' style="text-align:center;">
+        <img src='images/DHMDSEn.jpg' alt="sym" style="max-width:80%; height:auto; margin:auto; vertical-align:middle">
+    </div>
+    <div class='paper-box-text'>
+        <a href="https://www.sciencedirect.com/science/article/pii/S0888327026010137">
+            <papertitle> Dual-hierarchical multi-scale distance similarity entropy as a novel nonlinear measure for wind turbine gearbox intelligent fault diagnosis </papertitle>
+        </a>
+        <br>
+        <strong>Tao Wang</strong>, Shin Yee Khoo, Zhi Chao Ong, Pei Yi Siow, <strong>Teng Wang</strong>.
+        <br>
+        <em> Mechanical Systems and Signal Processing</em>, 2026
+        <p></p>
+        <p>We propose dual-hierarchical multi-scale distance similarity entropy (DHMDSEn), 
+            which combines complementary phase-shifted hierarchical decompositions with multi-scale distance similarity entropy to improve information utilization and robustly characterize vibration signal complexity.
+            Experiments on laboratory wind turbine gearbox and real industrial datasets demonstrate mean diagnostic accuracies of 91.22% and 99.98%, respectively, outperforming existing hierarchical entropy-based methods.
+        </p>
+</div>
+</div>
+
+<div class='paper-box'>
+    <div class='paper-box-image' style="text-align:center;">
+        <img src='images/MDSEN.jpg' alt="sym" style="max-width:80%; height:auto; margin:auto; vertical-align:middle">
+    </div>
+    <div class='paper-box-text'>
+        <a href="https://www.sciencedirect.com/science/article/pii/S0952197625023164">
+            <papertitle> Multi-scale distance similarity entropy: A novel complexity measurement for gearbox fault diagnosis </papertitle>
+        </a>
+        <br>
+        <strong>Tao Wang</strong>, Shin Yee Khoo, Zhi Chao Ong, Pei Yi Siow, <strong>Teng Wang</strong>.
+        <br>
+        <em>  Engineering Applications of Artificial Intelligence</em>, 2025 (TOP) <a href="https://github.com/lattetaotao/Multi-scale-distance-similarity-entropy">[code]</a>
+        <p></p>
+        <p>We propose a novel method called Multi-scale Distance Similarity Entropy (MDSE), 
+            which integrates distance similarity entropy with a multi-scale coarse-graining process to capture nonlinear variations in gearbox vibration signals while effectively suppressing noise. 
+            We validate its effectiveness on two gearbox datasets, where it achieves over 97% diagnostic accuracy and shows strong robustness and efficiency for real-time fault detection in complex industrial environments.
+        </p>
+</div>
+</div>
 
 
 <div class='paper-box'>
