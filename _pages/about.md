@@ -41,7 +41,7 @@ My research interests include:
 
 
 # 🎓 Educations 
-- *2023.03 - May 2026*&ensp;Ph.D. in Mechanical Engineering at Universiti Malaya, Kuala Lumpur, Malaysia. <a href="https://engine.um.edu.my/about-mechanical-engineering"><img class="svg" src="/images/UM.png" width="16pt"></a>
+- *2023.03 - 2026.05*&ensp;Ph.D. in Mechanical Engineering at Universiti Malaya, Kuala Lumpur, Malaysia. <a href="https://engine.um.edu.my/about-mechanical-engineering"><img class="svg" src="/images/UM.png" width="16pt"></a>
 - *2019.09 - 2022.06*&ensp;M.Sc. in School of Mechanical Science and Engineering of Northeast Petroleum University, Daqing, China. <a href="https://jxkxygcxy.nepu.edu.cn/"><img class="svg" src="/images/NEPU.png" width="16pt"></a>
 
 [//]: # (- *2012.09 - 2016.06*&ensp;B.Sc. in School of Electrical Engineering and Automation, Hefei University of Technology, Hefei, China. <a href="https://en.hfut.edu.cn/"><img class="svg" src="/images/hfut.png" width="16pt"></a> )
@@ -65,7 +65,7 @@ My research interests include:
             <papertitle> An enhanced generative adversarial network for longer vibration time data generation under variable operating conditions for imbalanced bearing fault diagnosis </papertitle>
         </a>
         <br>
-        <strong>Teng Wang</strong>, Zhi Chao Ong, Shin Yee Khoo, Pei Yi Siow, <strong>Tao Wang</strong>.
+        <strong>Teng Wang</strong>, Zhi Chao Ong*, Shin Yee Khoo, Pei Yi Siow, <strong>Tao Wang</strong>.
         <br>
         <em> Engineering Applications of Artificial Intelligence</em>, 2025 (TOP) <a href="https://github.com/GeneAIhub/GeneAIhub">[code]</a>
         <p></p>
@@ -83,7 +83,7 @@ My research interests include:
             <papertitle> SeqInfo-SAWGAN-GP: Adaptive feature extraction from vibration time data under variable operating conditions for imbalanced bearing fault diagnosis </papertitle>
         </a>
         <br>
-        <strong>Teng Wang</strong>, Zhi Chao Ong, Shin Yee Khoo, Pei Yi Siow <strong>Tao Wang</strong>.
+        <strong>Teng Wang</strong>, Zhi Chao Ong*, Shin Yee Khoo, Pei Yi Siow <strong>Tao Wang</strong>.
         <br>
         <em> Measurement</em>, 2025 <a href="https://github.com/GeneAIhub/GeneAIhub">[code]</a>
         <p></p>
@@ -100,7 +100,7 @@ My research interests include:
             <papertitle> Dual-hierarchical multi-scale distance similarity entropy as a novel nonlinear measure for wind turbine gearbox intelligent fault diagnosis </papertitle>
         </a>
         <br>
-        <strong>Tao Wang</strong>, Shin Yee Khoo, Zhi Chao Ong, Pei Yi Siow, <strong>Teng Wang</strong>.
+        Tao Wang, Shin Yee Khoo*, Zhi Chao Ong, Pei Yi Siow, <strong>Teng Wang</strong>.
         <br>
         <em> Mechanical Systems and Signal Processing</em>, 2026
         <p></p>
@@ -120,7 +120,7 @@ My research interests include:
             <papertitle> Multi-scale distance similarity entropy: A novel complexity measurement for gearbox fault diagnosis </papertitle>
         </a>
         <br>
-        <strong>Tao Wang</strong>, Shin Yee Khoo, Zhi Chao Ong, Pei Yi Siow, <strong>Teng Wang</strong>.
+        Tao Wang, Shin Yee Khoo*, Zhi Chao Ong, Pei Yi Siow, <strong>Teng Wang</strong>.
         <br>
         <em>  Engineering Applications of Artificial Intelligence</em>, 2025 (TOP) <a href="https://github.com/lattetaotao/Multi-scale-distance-similarity-entropy">[code]</a>
         <p></p>
@@ -141,7 +141,7 @@ My research interests include:
             <papertitle> Distance similarity entropy: A sensitive nonlinear feature extraction method for rolling bearing fault diagnosis </papertitle>
         </a>
         <br>
-        <strong>Tao Wang</strong>, Shin Yee Khoo, Zhi Chao Ong, Pei Yi Siow, <strong>Teng Wang</strong>.
+        Tao Wang, Shin Yee Khoo*, Zhi Chao Ong, Pei Yi Siow, <strong>Teng Wang</strong>.
         <br>
         <em>  Reliability Engineering & System Safety</em>, 2025 (TOP) <a href="https://github.com/GeneAIhub/GeneAIhub">[code]</a>
         <p></p>
