@@ -49,7 +49,7 @@ My research interests include:
 
 # 📝 Publications 
 
-<h3 align="center">The publications for Tao & Teng Wang</h3>
+<h3 align="center">The publications for Teng Wang</h3>
 <div style="border-bottom: 1px solid #000; margin: 0px 0;"></div>
 
 
