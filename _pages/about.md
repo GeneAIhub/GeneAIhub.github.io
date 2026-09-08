@@ -65,7 +65,7 @@ My research interests include:
             <papertitle> An enhanced generative adversarial network for longer vibration time data generation under variable operating conditions for imbalanced bearing fault diagnosis </papertitle>
         </a>
         <br>
-        <strong>Teng Wang</strong>, Zhi Chao Ong*, Shin Yee Khoo, Pei Yi Siow, <strong>Tao Wang</strong>.
+        <strong>Teng Wang</strong>, Zhi Chao Ong*, Shin Yee Khoo, Pei Yi Siow, Tao Wang.
         <br>
         <em> Engineering Applications of Artificial Intelligence</em>, 2025 (TOP) <a href="https://github.com/GeneAIhub/GeneAIhub">[code]</a>
         <p></p>
@@ -83,7 +83,7 @@ My research interests include:
             <papertitle> SeqInfo-SAWGAN-GP: Adaptive feature extraction from vibration time data under variable operating conditions for imbalanced bearing fault diagnosis </papertitle>
         </a>
         <br>
-        <strong>Teng Wang</strong>, Zhi Chao Ong*, Shin Yee Khoo, Pei Yi Siow <strong>Tao Wang</strong>.
+        <strong>Teng Wang</strong>, Zhi Chao Ong*, Shin Yee Khoo, Pei Yi Siow Tao Wang.
         <br>
         <em> Measurement</em>, 2025 <a href="https://github.com/GeneAIhub/GeneAIhub">[code]</a>
         <p></p>
