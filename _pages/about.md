@@ -24,7 +24,7 @@ My research focuses on mechanical condition monitoring, intelligent fault diagno
 </a> profile. My doctoral research was supervised by <highlight><a href="https://umexpert.um.edu.my/alexongzc" target="_blank">Professor Ong Zhi Chao</a></highlight>, <highlight>
 <a href="https://umexpert.um.edu.my/khooshinyee" target="_blank">Dr. Khoo Shin Yee</a></highlight>, and <highlight><a href="https://umexpert.um.edu.my/siowpeiyi" 
 target="_blank">Dr. Siow Pei Yi</a></highlight>. I am a member of the Advanced Shock and Vibration 
-Research (ASVR) Group</a></highlight>, based in the <a href="https://engine.um.edu.my/department-of-mechanical-engineering" target="_blank">Department of Mechanical Engineering, Faculty of Engineering, 
+Research (ASVR) Group, based in the <a href="https://engine.um.edu.my/department-of-mechanical-engineering" target="_blank">Department of Mechanical Engineering, Faculty of Engineering, 
 Universiti Malaya</a>.
 
 My research interests include:
