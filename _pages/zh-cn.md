@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: 中文简历
 permalink: /zh-cn/
 author_profile: true
@@ -14,7 +14,7 @@ author_profile: true
 
 <span class='anchor' id='about-me'></span>
 
-我是 **Teng Wang**，获**马来亚大学（Universiti Malaya）机械工程博士学位**。我的研究主要围绕机械设备状态监测与智能故障诊断展开，重点关注深度学习在时间序列分析中的应用，以及生成模型在故障数据增强中的应用，致力于解决变工况、类别不平衡和故障样本稀缺条件下的诊断问题。
+我是 **王腾 （Teng Wang）**，获**马来亚大学（Universiti Malaya）机械工程博士学位**。我的研究主要围绕机械设备状态监测与智能故障诊断展开，重点关注深度学习在时间序列分析中的应用，以及生成模型在故障数据增强中的应用，致力于解决变工况、类别不平衡和故障样本稀缺条件下的诊断问题。
 
 已发表 SCI 期刊论文 5 篇以上，论文及引用情况可查看我的
 <a href="https://scholar.google.com/citations?user=DmN2rEYAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar 主页 <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations" alt="Google Scholar 引用次数"></a>。
